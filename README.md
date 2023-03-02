@@ -1,7 +1,7 @@
 # Payment_fraud_detection-using-MachineLearning
 
-# What is fraud detection?
-* Fraud is the crime of getting money by deceiving people, where these kinds of fraud has been around for years and years now in many different ways, but one of the most is Money Fraud in digital world.
+# What is Payment fraud detection?
+* Fraud in Payments is the crime of getting money by deceiving people, where these kinds of fraud has been around for years and years now in many different ways, but one of the most is Money Fraud in digital world.
 * Fraud has become an major issue with regular changes and transformation like scamming, online banking, fake websites, unsecured websites, insurance etc. even through offline.
 * Detecting, preventing, and fighting fraud are among the primary concerns in the modern-day world. One of the most effective ways of managing attacks and risks is by using machine learning algorithms for fraud detection. Detecting, preventing, and fighting fraud are among the primary concerns in the modern-day world. One of the most effective ways of managing attacks and risks is by using machine learning algorithms for fraud detection.
 
