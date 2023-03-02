@@ -33,4 +33,3 @@ To identify online payment fraud with machine learning, we need to train a machi
 # Model Performance
 - Model has been trained and fitted with 80% of Data points and being tested with remaining 20% of data points.
 - Successfully implemented the Logistic Regression algorithm and model has predicted wiht 97% accuracy score to detect the payments being either fraud or not i.e column named isFraud in dataset has value 1 considered as Fraud payment and value 0 is considered as genuine payment.
-- 
